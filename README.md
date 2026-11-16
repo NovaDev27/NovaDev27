@@ -25,31 +25,31 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>🪐 <a href="https://github.com/NovaDev27/nexora">NEXORA</a></h4>
-      IA conversacional com personalidade e a companheira <b>Lume</b>. Streaming, 4 modos, camada de provedores com fallback e isolamento por sessão.
+      <h4>🌉 <a href="https://github.com/NovaDev27/ponte">Ponte</a></h4>
+      App para estudantes planejarem o intercâmbio sem perder dinheiro no câmbio: comparador, orçamento por cidade, checklist, assistente com IA e versão para relógio Wear OS.
       <br /><br />
-      <code>React</code> <code>Fastify</code> <code>Zod</code> <code>SSE</code>
+      <code>Expo</code> <code>React Native</code> <code>Kotlin</code> <code>Groq</code>
     </td>
     <td width="33%" valign="top">
-      <h4>🌙 <a href="https://github.com/NovaDev27/K-h-ra-">KŌHĪRA</a></h4>
-      Estúdio de escrita literária assistido por IA, com estética lo-fi japonesa. <i>Onde o silêncio vira narrativa.</i>
+      <h4>🪐 Toogle <sub>· privado</sub></h4>
+      Assistente pessoal por voz no relógio: tarefas, lembretes, notas e controle de gastos. Os dados ficam num banco SQLite e a IA nunca inventa valores.
       <br /><br />
-      <code>React</code> <code>Firebase</code> <code>Groq</code> <code>shadcn/ui</code>
+      <code>Python</code> <code>SQLite</code> <code>Groq</code>
     </td>
     <td width="33%" valign="top">
-      <h4>🌉 Ponte <sub>· privado</sub></h4>
-      App para estudantes planejarem o intercâmbio sem perder dinheiro no câmbio: comparador, orçamento por cidade, checklist e assistente com IA.
+      <h4>🌙 KŌHĪRA <sub>· privado</sub></h4>
+      Estúdio de escrita literária assistido por IA, com estética lo-fi japonesa e 5 idiomas. <i>Onde o silêncio vira narrativa.</i>
       <br /><br />
-      <code>Expo</code> <code>React Native</code> <code>Groq</code>
+      <code>React</code> <code>Supabase</code> <code>Gemini</code> <code>shadcn/ui</code>
     </td>
   </tr>
 </table>
 
 ### 🧭 Agora
 
-- 🔨 Evoluindo o **NEXORA** rumo a um provedor de IA real e um app desktop
-- 📚 Estudando arquitetura, segurança e testes para produtos com IA
-- 🌱 Aberto a trocar ideia sobre IA, produto e design de interfaces
+- 🔨 Validando a **Ponte** com usuários reais
+- 📊 Estudando SQL e análise de dados, com um projeto próprio de dados de cripto comparados com o CDI
+- 🌱 Aberto a estágio em dados e a trocar ideia sobre IA e produto
 
 <p align="center">
   <sub>✦ feito com vibe coding · Brasil ✦</sub>
