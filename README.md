@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  Estudante EAD apaixonado por tecnologia. Construo produtos com <b>IA</b> no centro —
-  com criatividade, fluidez e muito foco no detalhe. ✦
+  Sou estudante EAD e apaixonado por tecnologia.<br />
+  Construo produtos em que a <b>IA</b> conversa com a pessoa — com criatividade, fluidez e olho no detalhe. ✦
 </p>
 
 <p align="center">
@@ -26,19 +26,19 @@
   <tr>
     <td width="33%" valign="top">
       <h4>🌉 <a href="https://github.com/NovaDev27/ponte">Ponte</a></h4>
-      App para estudantes planejarem o intercâmbio sem perder dinheiro no câmbio: comparador, orçamento por cidade, checklist, assistente com IA e versão para relógio Wear OS.
+      App para estudantes planejarem o intercâmbio sem perder dinheiro no câmbio. Reúne comparador, orçamento por cidade, checklist, assistente com IA e uma versão para relógio Wear OS.
       <br /><br />
       <code>Expo</code> <code>React Native</code> <code>Kotlin</code> <code>Groq</code>
     </td>
     <td width="33%" valign="top">
       <h4>🪐 Toogle <sub>· privado</sub></h4>
-      Assistente pessoal por voz no relógio: tarefas, lembretes, notas e controle de gastos. Os dados ficam num banco SQLite e a IA nunca inventa valores.
+      Assistente pessoal por voz no relógio, a Aeri. Cuida de tarefas, lembretes, notas e do controle de gastos. Os dados ficam num banco SQLite no computador, e a IA não inventa valores.
       <br /><br />
       <code>Python</code> <code>SQLite</code> <code>Groq</code>
     </td>
     <td width="33%" valign="top">
       <h4>🌙 KŌHĪRA <sub>· privado</sub></h4>
-      Estúdio de escrita literária assistido por IA, com estética lo-fi japonesa e 5 idiomas. <i>Onde o silêncio vira narrativa.</i>
+      Estúdio de escrita literária com IA, estética lo-fi japonesa e cinco idiomas. <i>Onde o silêncio vira narrativa.</i>
       <br /><br />
       <code>React</code> <code>Supabase</code> <code>Gemini</code> <code>shadcn/ui</code>
     </td>
@@ -48,7 +48,8 @@
 ### 🧭 Agora
 
 - 🔨 Validando a **Ponte** com usuários reais
-- 📊 Estudando SQL e análise de dados, com um projeto próprio de dados de cripto comparados com o CDI
+- ☁️ Começando o **Bits**, um computador de IA na nuvem: conecta as IAs que você já usa, importa o histórico e aprende com uma memória em Markdown, no estilo do Obsidian
+- 📊 Estudando SQL e análise de dados, num projeto próprio que compara cripto com o CDI
 - 🌱 Aberto a estágio em dados e a trocar ideia sobre IA e produto
 
 <p align="center">
